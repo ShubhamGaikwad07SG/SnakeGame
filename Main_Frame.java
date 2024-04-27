@@ -520,7 +520,7 @@ class Snake_Game extends Canvas implements KeyListener
 	  F0.setLayout(null);
 	  F0.setVisible(true);
 	  F0.setResizable(false);
-	  F0.setTitle("Designed & Created By : Rutuparn D");
+	  F0.setTitle("Designed & Created By : Shubham & Rutu");
 	  F0.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 	  JP = new JPanel();
